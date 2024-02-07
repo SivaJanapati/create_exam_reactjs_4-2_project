@@ -1,0 +1,97 @@
+.exam-detail-conatiner{
+    background-color:rgb(220, 220, 220);
+    width:90%;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.select-input-box{
+    margin:10px;
+    border:none;
+    width:90%;
+    border-radius:3px ;
+    padding:7px;
+    color:grey;
+    
+}
+.marks-input{
+    margin:10px;
+    border:none;
+    width:85%;
+    border-radius:3px ;
+    padding:7px;
+    color: grey;
+}
+.date-input-box{
+    margin: 10px;
+    width:95%;
+}
+.label{
+    margin-right: 20px;
+    font-size: 500;
+    font-size:13px;
+}
+.date-field{
+    padding: 7px;
+    border:none;
+    border-radius: 3px;
+    width:80%;
+    color: grey;
+}
+.duration-input-box{
+    margin:10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:90%;
+}
+.duration-field{
+    margin-left:7px;
+    display: flex;
+    flex-direction: column;
+    margin-left:20px;
+}
+.input-duration{
+    border: none;
+    border-radius: 3px;
+    width:90%;
+    padding:7px; 
+}
+.span{
+    font-size: 12px;
+}
+.buttons-field{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+    width:90%;
+}
+.save-btn{
+    background-color:#067ec8;
+    color:white;
+    border: none;
+    font-weight: 500;
+    border-radius: 15px;
+    padding:5px;
+    width:90px;
+    
+}
+.reset-btn{
+    background-color:orange;
+    color:white;
+    border: none;
+    font-weight: 500;
+    border-radius: 15px;
+    padding:5px;
+    width:90px;
+    margin-left:10px;
+    margin-right:10px;
+}
